@@ -22,7 +22,7 @@
  [공식_사이트](https://git-scm.com/downloads) 에서 선택하거나 다음의 링크에서 다운로드 [윈도우_깃](https://eggs.or.kr/ai/git-setup/-/blob/06/Git-2.28.0-64-bit.exe)
 
  `순서 1`
-![다운로드](18github-clone-over-https.png)
+![다운로드](1download-git-for-windows.png)
 
 `순서 2`
 > 인스톨러 실행
