@@ -22,62 +22,65 @@
  [공식_사이트](https://git-scm.com/downloads) 에서 선택하거나 다음의 링크에서 다운로드 [윈도우_깃](https://eggs.or.kr/ai/git-setup/-/blob/master/06/Git-2.28.0-64-bit.exe)
 
  `순서 1`
-![다운로드](1download-git-for-windows.png)
+![다운로드](06/1download-git-for-windows.png)
 
 `순서 2`
 > 인스톨러 실행
-![인스톨러](2location-git-windows-download.png)
+![인스톨러](06/2location-git-windows-download.png)
 
 `순서 3`
 > 실행 후 나오는 화면에 Yes를 클릭합니다. - 시스템 변경을 허용 여부
-![시스템변경](3start-git-installation-process-windows.png)
+![시스템변경](06/3start-git-installation-process-windows.png)
 
 `순서 4`
 > 라이센스 동의 여부 "예"를 선택
-![라이센스](4read-and-accept-git-license-agreement.png)
+![라이센스](06/4read-and-accept-git-license-agreement.png)
 
 `순서 5`
 > 설치 위치 변경 여부 -- 기본 위치에 "예"
+![image](06/5select-git-installation-location.png)
 
 `순서 6`
 > 컴포넌트 기본외에 추가 할 경우 - 기본 항목 그데로 "예" 
+![image](06/6git-installation-component-selection-screen.png)
 
 `순서 7`
 > 스트트 메뉴에 바로가기 생성 여부 "예" 
+![image](06/7select-git-start-folder-shortcuts.png)
 
 `순서 8`
 > 에디터 선택하기 - 이부분은 혹시 깃 명령어중에서 에디터를 사용할 필요가 있을때 어떤 에디터를 사용할 지 여부를 묻는 것입니다. 보통은 사용할 일 없습니다. (저는 빔을 사용해서 .gitconfig파일에서 이를 변경해서 사용하고 있습니다.)
-![에디터](8select-text-editor-notepad-windows.png)
+![에디터](06/8select-text-editor-notepad-windows.png)
 
 `순서 9`
 > Path 환경 설정 -- 이부분도 고급설정을 하시는 분만 변경... 박스부분에 체크후 "다음"
-![PATH](9adjust-git-path-enviorment.png)
+![PATH](06/9adjust-git-path-enviorment.png)
 
 `순서 10`
 > OpenSSL (https 리퀘스트등 작업을 하는 경우 , CID PIPE)
-![OpenSSL](10use-openssl-library-server-verification-git-windows.png)
+![OpenSSL](06/10use-openssl-library-server-verification-git-windows.png)
 
 `순서 11`
 > 라인엔딩 처리방법 선택 -- 유닉스/맥 사용이 익숙하신분은 가운데, 그러지 않다면 기본 첫번째 선택 그데로 "고"
-![체크아웃 스타일](11configure-line-ending-conversions-git-on-windows.png)
+![체크아웃 스타일](06/11configure-line-ending-conversions-git-on-windows.png)
 
 `순서 12`
 > 터미널 에뮬레이터 설정 '보통은 MinTTY'
-![MinTTY](12configure-terminal-emulator-git-bash.png)
+![MinTTY](06/12configure-terminal-emulator-git-bash.png)
 
 `추가 설정`
-![추가설정](13configure-extra-options-git-install-windows.png) 
-![인터액티브_설정](14configure-experimental-options-git-windows-installation.png)
+![추가설정](06/13configure-extra-options-git-install-windows.png) 
+![인터액티브_설정](06/14configure-experimental-options-git-windows-installation.png)
 
-![Install](15complete-git-install-windows.png)
+![Install](06/15complete-git-install-windows.png)
 
 
 #### 설치 끝 
 
 ## 깃 사용하기 
-![사용하기](16start-git-bash-windows.png)
-![사용하기_GUI](17start-gui-git-windows.png)
-![git_clone](18github-clone-over-https.png)
+![사용하기](06/16start-git-bash-windows.png)
+![사용하기_GUI](06/17start-gui-git-windows.png)
+![git_clone](06/18github-clone-over-https.png)
 
 ## 나의 환경 설정하기
 
